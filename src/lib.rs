@@ -1,5 +1,5 @@
 #![deny(clippy::all)]
-
+mod algo;
 use napi_derive::napi;
 
 #[napi]
